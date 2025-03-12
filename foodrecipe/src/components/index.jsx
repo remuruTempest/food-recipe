@@ -7,6 +7,9 @@ export default function ContextProvider({ children }) {
             
         <h1>componenets</h1>
 
+        <div></div>
+        <div></div>
+
         </div>
     );
 }
