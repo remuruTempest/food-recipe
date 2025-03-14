@@ -14,6 +14,9 @@ export default function ContextProvider({ children }) {
                  <h3>recipe</h3>
                  <ol>
                     <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+
                  </ol>
             </div>
         </div>
