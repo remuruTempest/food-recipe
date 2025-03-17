@@ -1,16 +1,84 @@
 
 
+export default function ContextProvider({ children }) {
+    return(
+        <div>
 
-export default function ContextProvider({ children }) { 
-//States here
+            
+        <h1>componenets</h1>
 
- return(
-// Codes here
-<div>
-    <h1>Context</h1>
-</div>
+        <div>
+           
+            <div>
+                 <h2>Name:</h2>
+                 <h3>recipe</h3>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
 
-//Updates are to be formulated and design first with careful planing
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
 
- );
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
+
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
+
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
+
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
+
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
+
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
+
+                 </ol>
+                 <ol>
+                    <li>recioe #1</li>
+                    <li>recioe #2</li>
+                    <li>recioe #3</li>
+                    <li>recipe #4 </li>
+
+                 </ol>
+            </div>
+        </div>
+        <div></div>
+
+        </div>
+    );
 }
