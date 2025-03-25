@@ -2,236 +2,6 @@
 
 export default function ContextProvider({ children }) {
     return(
-
-            
-        <h1>componenets</h1>
-
-        <div>
-           
-            <div>
-                 <h2>Name:</h2>
-                 <h3>recipe</h3>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-            </div>
-            <div>
-                 <h2>Name:</h2>
-                 <h3>recipe</h3>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-            </div>
-            <div>
-                 <h2>Name:</h2>
-                 <h3>recipe</h3>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-                 <ol>
-                    <li>recioe #1</li>
-                    <li>recioe #2</li>
-                    <li>recioe #3</li>
-                    <li>recipe #4 </li>
-
-                 </ol>
-            </div>
-
-
-            <div>
-                <div className=""></div>  
-            </div>
-        </div>
-        
-
-        </div>
       <div className="recipe">
       <h2>{name}</h2>
       <img src={image} alt={name} style={{ width: '200px', height: '200px' }} />
@@ -245,7 +15,7 @@ export default function ContextProvider({ children }) {
 };
 
 // RecipeBook component to display the list of recipes
-const RecipeBook = () => {
+const RecipeBooks = () => {
   const recipes = [
     {
       name: 'Spaghetti Carbonara',
@@ -256,6 +26,11 @@ const RecipeBook = () => {
       name: 'Chicken Alfredo',
       image: 'https://via.placeholder.com/200',
       ingredients: ['Chicken', 'Fettuccine', 'Heavy cream', 'Parmesan', 'Garlic']
+    },
+    {
+      name: 'Spaghetti Carbonaras',
+      image: 'https://via.placeholder.com/200',
+      ingredients: ['Spaghetti', 'Eggs', 'Pancetta', 'Parmesan', 'Pepper']
     },
     {
       name: 'Caesar Salad',
