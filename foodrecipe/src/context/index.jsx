@@ -36,9 +36,14 @@ const RecipeBooks = () => {
       name: 'Caesar Salad',
       image: 'https://via.placeholder.com/200',
       ingredients: ['Lettuce', 'Caesar dressing', 'Croutons', 'Parmesan']
-    }
+    },
     {
-      name: 'Caesar Salad',
+      name: 'CaesarSalad',
+      image: 'https://via.placeholder.com/200',
+      ingredients: ['Lettuce', 'Caesar dressing', 'Croutons', 'Parmesan']
+    },
+    {
+      name: 'Caesar montano',
       image: 'https://via.placeholder.com/200',
       ingredients: ['Lettuce', 'Caesar dressing', 'Croutons', 'Parmesan']
     }
