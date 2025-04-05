@@ -75,9 +75,10 @@ const RecipeBooks = () => {
   ];
 
   return (
-    <div className="recipe-book">
+    <div className="recipes-book">
       <h1>Recipe Book</h1>
       <div className="recipes">
+        <h1>Recipe book</h1>
         {recipes.map((recipe, index) => (
           <Recipe
             key={index}
