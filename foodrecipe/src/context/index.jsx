@@ -78,7 +78,7 @@ const RecipeBooks = () => {
     <div className="recipes-book">
       <h1>Recipe Book</h1>
       <div className="recipes">
-        <h1>Recipe book</h1>
+        <h1>Recipe books</h1>
         {recipes.map((recipe, index) => (
           <Recipe
             key={index}
