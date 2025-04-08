@@ -38,6 +38,11 @@ const RecipeBooks = () => {
       ingredients: ['Lettuce', 'Caesar dressing', 'Croutons', 'Parmesan']
     },
     {
+      name: 'Chicken Alfredos',
+      image: 'https://via.placeholder.com/200',
+      ingredients: ['Chicken', 'Fettuccine', 'Heavy cream', 'Parmesan', 'Garlic']
+    },
+    {
       name: 'CaesarSalad',
       image: 'https://via.placeholder.com/200',
       ingredients: ['Lettuce', 'Caesar dressing', 'Croutons', 'Parmesan']
