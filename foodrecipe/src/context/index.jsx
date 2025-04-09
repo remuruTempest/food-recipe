@@ -58,7 +58,7 @@ const RecipeBooks = () => {
       ingredients: ['Lettuce', 'Caesar dressing', 'Croutons', 'Parmesan']
     },
     {
-      name: 'Caesar montano',
+      name: 'Caesar asdasdas',
       image: 'https://via.placeholder.com/200',
       ingredients: ['Lettuce', 'Caesar dressing', 'Croutons', 'Parmesan']
     },
