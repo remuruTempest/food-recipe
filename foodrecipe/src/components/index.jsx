@@ -31,6 +31,15 @@ const recipesData = [
       'Olive oil',
       'Salt to taste',
     ],
+    name: 'Margherita Pizza',
+    ingredients: [
+      '1 pizza dough',
+      '200g tomato sauce',
+      '150g mozzarella cheese',
+      'Fresh basil leaves',
+      'Olive oil',
+      'Salt to taste',
+    ],
     procedures: [
       'Preheat oven to 250°C (482°F).',
       'Spread tomato sauce over the pizza dough.',
