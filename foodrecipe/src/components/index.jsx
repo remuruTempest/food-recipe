@@ -25,8 +25,8 @@ const recipesData = [
     name: 'Margherita Pizza',
     ingredients: [
       '1 pizza dough',
-      '200g tomato sauce',
-      '150g mozzarella cheese',
+      '200g tomato sauces',
+      '150g mozzarella cheeses',
       'Fresh basil leaves',
       'Olive oil',
       'Salt to taste',
