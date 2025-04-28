@@ -45,6 +45,7 @@ const recipesData = [
       'Spread tomato sauce over the pizza dough.',
       'Add sliced mozzarella cheese on top.',
       'Bake for 10-12 minutes until crust is golden.',
+      'Preheat oven to 250°C (482°F).',
       'Garnish with fresh basil leaves and drizzle with olive oil.',
       'Serve hot.',
     ],
