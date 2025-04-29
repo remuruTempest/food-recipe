@@ -30,6 +30,7 @@ const recipesData = [
       'Fresh basil leaves',
       'Olive oils',
       'Salt to taste',
+      'Salt to taste',
     ],
     name: 'Margherita Pizza',
     ingredients: [
