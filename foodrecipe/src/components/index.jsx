@@ -29,6 +29,7 @@ const recipesData = [
       '150g mozzarella cheeses',
       'Fresh basil leaves',
       'Olive oils',
+      'Olive oils',
       'Salt to taste',
       'Salt to taste',
     ],
