@@ -26,11 +26,8 @@ const recipesData = [
     ingredients: [
       '1 pizza doughs',
       '200g tomato sauces',
-      '200g tomato sauces',
-      '150g mozzarella cheeses',
       '150g mozzarella cheeses',
       'Fresh basil leaves',
-      'Olive oils',
       'Olive oils',
       'Salt to taste',
       'Salt to taste',
